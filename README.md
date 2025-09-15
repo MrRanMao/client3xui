@@ -1,8 +1,8 @@
 # client3xui
 
-[![Go report](https://goreportcard.com/badge/github.com/digilolnet/client3xui)](https://goreportcard.com/report/github.com/digilolnet/client3xui)
-[![GoDoc](https://godoc.org/github.com/digilolnet/client3xui?status.svg)](https://godoc.org/github.com/digilolnet/client3xui)
-[![License](https://img.shields.io/github/license/digilolnet/client3xui.svg)](https://github.com/digilolnet/client3xui/blob/master/LICENSE.md)
+[![Go report](https://goreportcard.com/badge/github.com/MrRanMao/client3xui)](https://goreportcard.com/report/github.com/MrRanMao/client3xui)
+[![GoDoc](https://godoc.org/github.com/MrRanMao/client3xui?status.svg)](https://godoc.org/github.com/MrRanMao/client3xui)
+[![License](https://img.shields.io/github/license/MrRanMao/client3xui.svg)](https://github.com/MrRanMao/client3xui/blob/master/LICENSE.md)
 
 [3X-UI](https://github.com/MHSanaei/3x-ui) API wrapper in Go brought to you by:
 
@@ -20,7 +20,7 @@ import (
         "fmt"
         "log"
 
-        "github.com/digilolnet/client3xui"
+        "github.com/MrRanMao/client3xui"
 )
 
 func main() {
@@ -106,7 +106,7 @@ import (
         "log"
 
         "github.com/google/uuid"
-        "github.com/digilolnet/client3xui"
+        "github.com/MrRanMao/client3xui"
 )
 
 func main() {
